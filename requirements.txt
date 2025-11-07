@@ -1,11 +1,10 @@
 # Core dependencies
-streamlit==1.40.1
+streamlit==1.39.0
 pandas==2.2.3
 numpy==2.1.2
 scikit-learn==1.5.2
 tensorflow==2.20.0
 joblib==1.4.2
-python-3.11
 
 # Optional (useful for plots or debugging)
 matplotlib==3.9.2
